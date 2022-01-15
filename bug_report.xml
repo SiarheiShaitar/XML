@@ -1,6 +1,6 @@
 <bug_report>
   <title>Submit order button not working</title>
-<playback steps>
+<playback_steps>
   <step1>Open site</step1>
 <step2>Click on the link</step2>
   <step3>Scroll to the field</step3>
