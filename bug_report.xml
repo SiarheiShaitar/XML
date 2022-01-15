@@ -1,1 +1,13 @@
+<bug_report>
+  <title>Submit order button not working</title>
+<playback steps>
+  <step1>Open site</step1>
+<step2>Click on the link</step2>
+  <step3>Scroll to the field</step3>
+  <step4>Enter a value in the field</step4>
+  <step5>Try to click the send order button</step5>
+  </playback_steps>
+  <actual_result>The button is disabled</actual_result>
+  <expected_result>The button is pressed, you can place an order</expected_result>
+  </buq_report>
 
