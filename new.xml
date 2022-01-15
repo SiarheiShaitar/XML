@@ -1,11 +1,11 @@
-<INFORMATION>
-<ABOUT ME>
-<NAME>Siarhei</NAME>
-<SURNAME>Shaitar</SURNAME>
-</ABOUT ME>
-<OTHER INFORMATION>
-<AGE>30</AGE>
-<PETS>0</PETS>
-<FUTURE DESIRED SALARY>500 dollars</FUTURE DESIRED SALARY>
-</OTHER INFORMATION>
-</INFORMATION>
+<information>
+<about_me>
+<name>Siarhei</name>
+<surname>Shaitar</surname>
+</about_me>
+<other_information>
+<age>30</age>
+<pets>0</pets>
+<future_desired_salary>500 dollars</future_desired_salary>
+</other_information>
+</information>
