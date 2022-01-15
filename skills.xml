@@ -1,0 +1,19 @@
+<skills>
+<line1>basic theory of testing</line1>
+<line2>knowledges about client-server acchitecture</line2>
+<line4>knowledges about HTTP request methods to the server</line3>
+<line3>knowledges about HTTP server response codes</line4>
+<line4>knowledges about Structures of HTTP requests and responses</line5>
+<line5>knowledges about JSON and XML</line6>
+<line6>API testing with Postman</line6>
+<line7>Removing and reading logs from an external server</line7>
+<line8>Sniffing http web traffic with Charles and Fiddler</line8>
+<line9>Dev Tools for web browsers</line9>
+<line10>Mobile testing</line10>
+<line11>Basics SQL</line11>
+<line12>Postgres database</line12>
+<line13>Redis non-relational database</line13>
+<line14>Load testing in Jmeter</line14>
+<line15>Scrum Development Methodology<line15>
+<line16>Knowleges about command line</line16>
+</skills>
