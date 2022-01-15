@@ -9,5 +9,5 @@
   </playback_steps>
   <actual_result>The button is disabled</actual_result>
   <expected_result>The button is pressed, you can place an order</expected_result>
-  </buq_report>
+  </bug_report>
 
